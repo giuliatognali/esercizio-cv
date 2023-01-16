@@ -1,13 +1,16 @@
 header{
     text-align: center;
     background-color: #ededed;
-    padding-bottom: 20px;
-    border-bottom: 4px red;
 }
+
 #img-profilo{
     height: 160px;
     width: 160px;
 }
-.section-title{
-    color: gold;
+hr{
+    border-color: orange;
 }
+.section-title{
+    color: orange;
+}
+
